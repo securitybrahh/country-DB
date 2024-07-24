@@ -1,3 +1,5 @@
+https://simplex.chat/blog/20240704-future-of-privacy-enforcing-privacy-standards.html
+
 # country-DB
 UK, Australia, India etc are enforcing laws to restrict and monitor comms.
 
