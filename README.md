@@ -29,3 +29,21 @@ https://www.wipfli.com/insights/articles/tax-federal-court-holds-boi-reporting-r
 ## India
 
 https://github.com/pixincreate/PrivacyGuides-India
+
+## Israel - Palastine
+
+sharwik
+
+## covid antidote
+
+## plan b
+
+## climate sanctions 
+
+## Shit hits the fan
+
+## russian ukrain
+
+## Tyrranical govs
+
+## dictatorships
