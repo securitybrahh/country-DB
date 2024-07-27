@@ -71,15 +71,30 @@ https://www.wipfli.com/insights/articles/tax-federal-court-holds-boi-reporting-r
 
 ## UK
 
-## EU
+## EU.
+
+https://qz.com/the-right-to-pay-anonymously-has-become-part-of-an-eu-c-1850708PDF
 
 ## India
+
+https://github.com/npci/falcon
+
+https://www.pwc.in/research-and-insights-hub/future-of-digital-currency-in-india.html
+
+https://rbidocs.rbi.org.in/rdocs//PublicationReport/Pdfs/CONCEPTNOTEACB531172E0B4DFC9A6E506C2C24FFB6.PDF
 
 https://github.com/pixincreate/PrivacyGuides-India
 
 ## Israel - Palastine
 
 shareuwik
+
+## China
+https://esim.holafly.com/en/esim-china/
+
+## Australia & NZ
+
+## LatAm
 
 ## covid antidote
 
