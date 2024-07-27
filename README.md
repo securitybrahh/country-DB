@@ -1,5 +1,27 @@
 https://simplex.chat/blog/20240704-future-of-privacy-enforcing-privacy-standards.html
 
+identifiers | customs | immigration | security
+
+border 
+
+police
+
+judiciary
+
+What will the state do if not currency?
+
+1. Make bills / lobbies
+2. Pass laws (legislature)
+3. Enforcement (exective)
+4. Judiciary
+5. Police / Military
+
+Make wars?
+
+Media will be handled by citizen journalists? (Nostr)
+
+??????
+
 # country-DB
 UK, Australia, India etc are enforcing laws to restrict and monitor comms.
 
