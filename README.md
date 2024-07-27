@@ -1,5 +1,12 @@
 rogue military and tactical units. navy, airforce. on retainers? - gun is law. COMMINT.
 
+cbdc
+
+declaring everything you own
+
+tradfi bank quotas 
+
+cryptography is key, data is key.
 
 Finally, the most important problem to solve is separating money and state
 
