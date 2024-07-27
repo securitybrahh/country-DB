@@ -1,3 +1,21 @@
+rogue military and tactical units. navy, airforce. on retainers? - gun is law. COMMINT.
+
+
+Finally, the most important problem to solve is separating money and state
+
+https://armantheparman.com/why-bitcoin-only/
+
+corporations are countries with their laws, police, courts, currency, residency- https://en.m.wikipedia.org/wiki/Apple_Park
+
+campuses - universities.
+
+cyberspace corps.
+
+https://www.reuters.com/world/americas/honduran-special-economic-zone-adopts-bitcoin-legal-tender-2022-04-07/
+
+https://en.m.wikipedia.org/wiki/Pr%C3%B3spera
+
+
 https://simplex.chat/blog/20240704-future-of-privacy-enforcing-privacy-standards.html
 
 identifiers | customs | immigration | security
