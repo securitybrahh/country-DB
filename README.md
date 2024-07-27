@@ -54,7 +54,7 @@ https://github.com/pixincreate/PrivacyGuides-India
 
 ## Israel - Palastine
 
-sharwik
+shareuwik
 
 ## covid antidote
 
