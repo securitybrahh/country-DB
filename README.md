@@ -1,3 +1,5 @@
+https://x.com/evoskuil/status/1817614193530372102
+
 rule of law?
 
 rogue military and tactical units. navy, airforce. on retainers? - gun is law. COMMINT.
