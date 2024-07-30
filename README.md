@@ -1,7 +1,15 @@
+# The great Key Management UX problem
+
+My keys messed up, lost messages, how to recover, can't remeber where I kept the coins, etc
+
+
+# Business compaince in Crypto
+
 https://en.m.wikipedia.org/wiki/Pr%C3%B3spera
 
 [Set Your Business Up With Bitcoin Unit of Account with Luke Thibodeau, CFO of Prospera SLP585
 ](https://youtube.com/watch?v=skZYsH4nnHI)
+
 # Circle of Trust ID
 
 UX of PGP, Crypto, Nostr key management is shit.
@@ -134,6 +142,11 @@ https://esim.holafly.com/en/esim-china/
 
 # how to bridge normies and techies?
 
+How to align journalists / sales & marketing / tech / security worlds.
+
+https://9to5mac.com/2024/03/22/unpatchable-security-flaw-mac/
+
+https://social.treehouse.systems/@marcan/112238385679496096
 sales world & tech world
 
 ![1000003684](https://github.com/user-attachments/assets/698f60a9-aeab-454a-8868-ff3fe1498ad6)
