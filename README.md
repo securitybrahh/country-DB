@@ -1,3 +1,17 @@
+# Circle of Trust ID
+
+UX of PGP, Crypto, Nostr key management is shit.
+
+how will you give proof of humanity, Identify yourself, and do company complaince without gov ID's?
+
+biomarkers linked with gov id is huge privacy risk.
+
+Passport?
+
+we need good UX for PGP and edtablishing circle of trust.
+
+# 
+
 https://x.com/evoskuil/status/1817614193530372102
 
 rule of law?
