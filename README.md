@@ -131,3 +131,13 @@ https://esim.holafly.com/en/esim-china/
 ## Tyrranical govs
 
 ## dictatorships
+
+# how to bridge normies and techies?
+
+sales world & tech world
+
+![1000003684](https://github.com/user-attachments/assets/698f60a9-aeab-454a-8868-ff3fe1498ad6)
+
+the below problem is not a security problem but a security public relations problem.
+
+https://opinionplatform.org/grapheneos/index.html
