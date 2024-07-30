@@ -158,3 +158,5 @@ sales world & tech world
 the below problem is not a security problem but a security public relations problem.
 
 https://opinionplatform.org/grapheneos/index.html
+
+the great Security UX problem is summarized by the fact that I am terrified of this video - https://youtube.com/watch?v=WIeJF3kL5ng
