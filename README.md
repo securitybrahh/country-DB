@@ -1,3 +1,7 @@
+companies living in cyberspace with btc as its unit of account.
+
+monero is better as a cash? lightning will save us all? 
+
 # The great Key Management UX problem
 
 My keys messed up, lost messages, how to recover, can't remeber where I kept the coins, etc
