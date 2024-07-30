@@ -34,7 +34,7 @@ rule of law?
 
 rogue military and tactical units. navy, airforce. on retainers? - gun is law. COMMINT.
 
-cbdc
+cbdc https://cbdctracker.org/
 
 declaring everything you own
 
