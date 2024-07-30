@@ -1,3 +1,5 @@
+https://en.m.wikipedia.org/wiki/Pr%C3%B3spera
+
 [Set Your Business Up With Bitcoin Unit of Account with Luke Thibodeau, CFO of Prospera SLP585
 ](https://youtube.com/watch?v=skZYsH4nnHI)
 # Circle of Trust ID
