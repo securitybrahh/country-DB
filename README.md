@@ -84,7 +84,7 @@ Media will be handled by citizen journalists? (Nostr)
 # country-DB
 UK, Australia, India etc are enforcing laws to restrict and monitor comms.
 
-UK: [Online Safety Bill](https://x.com/WireMin/status/1699324051745816876?s=20)
+UK: [Online Safety Bil](https://x.com/WireMin/status/1699324051745816876)[l](https://www.youtube.com/watch?v=Vj5p7jrw7d4)
 AU: Esafety Bill
 India: [Telecommunication Bill](https://www.indiatoday.in/law/story/telecommunications-bill-receives-president-droupadi-murmu-assent-becomes-law-2480283-2023-12-25)
 
