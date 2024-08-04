@@ -1,3 +1,8 @@
+social network - https://gitlab.futo.org/polycentric/polycentric/-/blame/master/proto/protocol.proto?ref_type=heads#L23
+
+Identity - https://gitlab.futo.org/polycentric/harbor/-/blame/main/harbor_flutter/lib/models/pointer.dart?ref_type=heads#L42
+
+
 companies living in cyberspace with btc as its unit of account.
 
 monero is better as a cash? lightning will save us all? 
