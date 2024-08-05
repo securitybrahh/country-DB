@@ -2,7 +2,7 @@ social network - https://gitlab.futo.org/polycentric/polycentric/-/blame/master/
 
 Identity - https://gitlab.futo.org/polycentric/harbor/-/blame/main/harbor_flutter/lib/models/pointer.dart?ref_type=heads#L42
 
-dumb Server - https://gitlab.futo.org/polycentric/polycentric-http-bridge/-/blame/master/src/main.ts?ref_type=heads#L82
+dumb Server, Wise clients - https://gitlab.futo.org/polycentric/polycentric-http-bridge/-/blame/master/src/main.ts?ref_type=heads#L82
 
 
 companies living in cyberspace with btc as its unit of account.
